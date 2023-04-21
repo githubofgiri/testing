@@ -1,0 +1,15 @@
+/*
+Theme Name:   netechpmwani
+Theme URI:    http://example.com/twenty-fifteen-child/
+Description:  Twenty Fifteen Child Theme
+Author:       gowebbi.com
+Author URI:   https://gowebbi.com
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+
+*/
+
+
+/** Home Page (Contact Details Section*/
+.contactInfo .textArea a:hover{text-decoration: none;color: rgb(66, 19, 235);}
+.contactInfo .textArea a{color: rgb(0, 0, 0);}
